@@ -31,5 +31,3 @@ public class NazwaKlasy {
         scanner.close();
     }
 }
-// Test1
-// Test2

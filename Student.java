@@ -29,5 +29,3 @@ class Student { //Klasa "Student" wraz z polami klas
         student.wyswietlInformacjeOStudencie();
     }
 }
-// Test1
-// Test2

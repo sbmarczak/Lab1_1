@@ -7,5 +7,3 @@ class Hello // Klasa Hello
         System.out.println("Hello World!"); // Wyświetlenie na ekranie tekst: "Hello World!"
     }
 }
-// Test1
-// Test2
